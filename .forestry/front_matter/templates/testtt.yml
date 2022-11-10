@@ -1,4 +1,14 @@
 ---
 label: testtt
 hide_body: false
-fields: []
+fields:
+- name: testttt
+  type: datetime
+  label: testttt
+  description: ''
+  config:
+    required: false
+    date_format: MM-DD-YYYY
+    time_format: 
+    display_utc: true
+    export_format: MM-DD-YYYY
